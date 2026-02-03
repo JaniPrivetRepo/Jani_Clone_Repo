@@ -67,18 +67,18 @@ def queue_back_markup(_, CPLAY):
 def aq_markup(_, chat_id):
     buttons = [
         [
+            InlineKeyboardButton(text="▉▉", callback_data=f"ADMIN Pause|{chat_id}"),
             InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="II", callback_data=f"ADMIN Pause|{chat_id}"),
             InlineKeyboardButton(text="↻", callback_data=f"ADMIN Replay|{chat_id}"),
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
         [
             InlineKeyboardButton(
-                text="˹❍ᴡηєʀ˼ ", url=f"https://t.me/itzz_istkhar"
+                text="˹❍ᴡηєʀ˼ ", url=f"https://t.me/Power_of_Jani"
             ),
             InlineKeyboardButton(
-                text="˹sᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/jully_updates"
+                text="˹sᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/+a3O_RK3xMbA1ZGZl"
             ),
         ],
       ]
@@ -113,7 +113,7 @@ def queuemarkup(_, vidid, chat_id):
         [
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
-                url="https://t.me/ll_istkhar_ll",
+                url="https://t.me/Power_of_Jani",
             ),
         ],
     ]
