@@ -173,7 +173,7 @@ CLONE_HELP_2 = """
 /clone – ᴄʟᴏɴᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ғʀᴏᴍ @SumoMusicBot.
 
 <b><u>ᴀʟʟ ᴜsᴇʀs :</b></u>
-/mybot – ᴄʜᴇᴄᴋ ᴛʜᴇ ʙᴏᴛs ʏᴏᴜ’ᴠᴇ ᴄʟᴏɴᴇᴅ. [<a href="https://t.me/SumoMusicBot?start=_tgr_tT45yhBmOTJl">˹ 𝐒ᴜᴍᴏ ꭙ 𝐌ᴜsɪᴄ ˼</a>]
+/mybot – ᴄʜᴇᴄᴋ ᴛʜᴇ ʙᴏᴛs ʏᴏᴜ’ᴠᴇ ᴄʟᴏɴᴇᴅ. [<a href="https://t.me/Jani_Music_Robot?start=_tgr_I548BOJjYTg1">˹ ᴊᴀɴɪ 𔘓 ᴍᴜꜱɪᴄ™♪[ 𝚁𔘓𝙿 ] ˼</a>]
 /botinfo – ᴏɴʟʏ ғᴏʀ ʙᴏᴛ ᴏᴡɴᴇʀs ᴛᴏ ᴠɪᴇᴡ ʙᴏᴛ ɪɴғᴏ.
 
 <b><u>ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs :</b></u>
