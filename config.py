@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_S_H_A_D_O_W_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Power_of_Jani")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "SumoMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Jani_Music_Robot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "˹ 𝐍ᴏʙɪᴛᴀ ꭙ 𝐌ᴜsɪᴄ [2] ˼")
+BOT_NAME = getenv("BOT_NAME" , "˹ Jani Music")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "NOBITA_MUSIC_TG_BOT")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Jani")
 # ---------------------------------------------------------
 
 
@@ -57,7 +57,7 @@ VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
 API_KEY = getenv("API_KEY", 'NxGBNexGenBots790d34')
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/TEAMPURVI/SONALI_MUSIC")
+SOURCE = getenv("SOURCE", "https://t.me/Power_of_Jani")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/JaniPrivetRepo/Jani_Clone_Repo",
@@ -73,9 +73,9 @@ GIT_TOKEN = getenv(
 
 #------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jully_Updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xfr6-ZOTaZVmODU1")
-CHAT = getenv("CHAT", "https://t.me/+xfr6-ZOTaZVmODU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Selfish_Jani_Lover")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+a3O_RK3xMbA1ZGZl")
+CHAT = getenv("CHAT", "https://t.me/+a3O_RK3xMbA1ZGZl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -160,8 +160,8 @@ HELP_IMG_URL = getenv(
     "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
 )
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/q8bej6.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/q8bej6.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://litter.catbox.moe/k2zjdk.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://litter.catbox.moe/k2zjdk.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/q8bej6.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
